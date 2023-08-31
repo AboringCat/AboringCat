@@ -1,12 +1,19 @@
->### Hi:(
-
->Show README.MD in:
->[English]
->[Chinese]
+>### Hi:(  
 
 
->**I'm just a normal student in middle school**
 
+  
+>Show README.MD in:  
+>[English]  
+>[Chinese]  
+  
+
+
+  
+>**I'm just a normal student in middle school**  
+
+
+  
 >### About Me  
 >-Like😪Sleeping at home;playing PC games(because I only have PC,Fk);Listening to music  
 >-Fk ur mom lol :(  
@@ -14,19 +21,34 @@
 >-Want to make a Among Us Mod  
 >-About studying.. well.. a bit good  
 
->### PLAN
->-Go bananas
->-Go bananas
->-Go bananas
->-Sleeping
->-Learn C#
 
->### ❤My Lover❤
->NO （temporary）
+  
+>### PLAN  
+>-Go bananas  
+>-Go bananas  
+>-Go bananas  
+>-Sleeping  
+>-Learn C#  
 
->### I want to say:
->Fk u school
->I dont want to be bondaged by my life
 
->### Other
->Nothing
+  
+>### ❤My Lover❤  
+>NO （temporary）  
+
+
+
+>### Like(GAMES)  
+>Minecraft  
+>Among Us  
+
+
+
+  
+>### I want to say:  
+>Fk u school  
+>I dont want to be bondaged by my life  
+
+
+  
+>### Other  
+>Nothing  
