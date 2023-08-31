@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi:(
+
+Show README.MD in:
+[English]
+[Chinese]
 
 <!--
-**AboringCat/AboringCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm just a normal student in middle school**
 
-Here are some ideas to get you started:
+### About Me
+-Like😪Sleeping at home;playing PC games(because I only have PC,Fk);Listening to music
+-Fk ur mom lol :(
+-Try to learn C#
+-Want to make a Among Us Mod
+-About studying.. well.. a bit good
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PLAN
+-Go bananas
+-Go bananas
+-Go bananas
+-Sleeping
+-Learn C#
+
+### ❤My Lover❤
+NO （temporary）
+
+### I want to say:
+Fk u school
+I dont want to be bondaged by my life
+
+### Other
+Nothing
