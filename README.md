@@ -7,12 +7,12 @@
 
 >**I'm just a normal student in middle school**
 
->### About Me
->-Like😪Sleeping at home;playing PC games(because I only have PC,Fk);Listening to music
->-Fk ur mom lol :(
->-Try to learn C#
->-Want to make a Among Us Mod
->-About studying.. well.. a bit good
+>### About Me  
+>-Like😪Sleeping at home;playing PC games(because I only have PC,Fk);Listening to music  
+>-Fk ur mom lol :(  
+>-Try to learn C#  
+>-Want to make a Among Us Mod  
+>-About studying.. well.. a bit good  
 
 >### PLAN
 >-Go bananas
