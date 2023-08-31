@@ -10,23 +10,23 @@
 >### About Me
 >-Like😪Sleeping at home;playing PC games(because I only have PC,Fk);Listening to music
 >-Fk ur mom lol :(
--Try to learn C#
--Want to make a Among Us Mod
--About studying.. well.. a bit good
+>-Try to learn C#
+>-Want to make a Among Us Mod
+>-About studying.. well.. a bit good
 
-### PLAN
--Go bananas
--Go bananas
--Go bananas
--Sleeping
--Learn C#
+>### PLAN
+>-Go bananas
+>-Go bananas
+>-Go bananas
+>-Sleeping
+>-Learn C#
 
-### ❤My Lover❤
-NO （temporary）
+>### ❤My Lover❤
+>NO （temporary）
 
-### I want to say:
-Fk u school
-I dont want to be bondaged by my life
+>### I want to say:
+>Fk u school
+>I dont want to be bondaged by my life
 
-### Other
-Nothing
+>### Other
+>Nothing
