@@ -3,10 +3,7 @@
 
 
   
->Show README.MD in:  
->[English]  
->[Chinese]  
-  
+
 
 
   
@@ -32,8 +29,6 @@
 
 
   
->### ❤My Lover❤  
->NO （temporary）  
 
 
 
